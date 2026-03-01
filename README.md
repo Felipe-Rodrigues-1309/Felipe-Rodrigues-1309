@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Rodrigues
 
-<!--
-**Felipe-Rodrigues-1309/Felipe-Rodrigues-1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack  
+🐧 Entusiasta Linux  
+🚀 Focado em PHP, JavaScript e MySQL  
+📍 Ceará, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias
+
+- PHP
+- JavaScript
+- MySQL
+- HTML & CSS
+- React (em aprendizado)
+- Linux
+
+---
+
+## ⚙️ Ambiente de Desenvolvimento
+
+- 🐧 Linux (uso diário)
+- 🖥️ VS Code
+- 🗄️ MySQL
+- 🔧 Git & GitHub
+
+---
+
+## 📊 Estatísticas
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rodrigues-1309&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (adicione aqui)
+- Email: feliphi10@gmail.com
