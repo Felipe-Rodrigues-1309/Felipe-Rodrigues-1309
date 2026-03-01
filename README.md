@@ -57,8 +57,8 @@ Sou desenvolvedor focado em aplicações web, com experiência em desenvolviment
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (adicione seu link)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: https://www.linkedin.com/in/felipe-rodrigues-1b0b16271 
+- 📧 Email: feliphi10@gmail.com
 
 ---
 
