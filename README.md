@@ -1,39 +1,65 @@
 # 👋 Olá, eu sou o Felipe Rodrigues
 
 💻 Desenvolvedor Full Stack  
-🐧 Entusiasta Linux  
-🚀 Focado em PHP, JavaScript e MySQL  
+🐧 Linux enthusiast & daily driver  
+🚀 Construindo soluções web com PHP, JavaScript e MySQL  
+🏢 Fundador da Felvic  
 📍 Ceará, Brasil  
 
 ---
 
-## 🧠 Tecnologias
+## 🚀 Sobre mim
 
-- PHP
-- JavaScript
-- MySQL
-- HTML & CSS
-- React (em aprendizado)
-- Linux
+Sou desenvolvedor focado em aplicações web, com experiência em desenvolvimento full stack e grande afinidade com o ecossistema Linux e open source.
+
+- 🔭 Atualmente trabalhando em projetos web
+- 🌱 Estudando JavaScript, MySQL e PHP
+- 🐧 Usuário Linux no dia a dia
+- ⚡ Sempre buscando evoluir como desenvolvedor
 
 ---
 
-## ⚙️ Ambiente de Desenvolvimento
+## 🧠 Stack principal
 
-- 🐧 Linux (uso diário)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,react,linux,git" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rodrigues-1309&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Rodrigues-1309&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Ambiente de desenvolvimento
+
+- 🐧 Linux (Fedora)
 - 🖥️ VS Code
 - 🗄️ MySQL
 - 🔧 Git & GitHub
+- 🌐 Apache
 
 ---
 
-## 📊 Estatísticas
+## 📌 Projetos em destaque
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Rodrigues-1309&show_icons=true&theme=tokyonight)
+🔹 Sistema de lanchonete (Aquinolanches)  
+🔹 Sistemas PHP com MySQL  
+🔹 Projetos web responsivos  
+
+👉 Confira meus repositórios fixados abaixo.
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (adicione aqui)
-- Email: feliphi10@gmail.com
+- 💼 LinkedIn: (adicione seu link)
+- 📧 Email: (opcional)
+
+---
+
+⭐ Se curtir meus projetos, considere deixar uma estrela!
